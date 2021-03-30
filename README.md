@@ -34,7 +34,7 @@ The file accommodation.py start the web application
 
 ## Demo <a name="demo"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@flavio.fukabori/how-much-does-a-night-in-boston-or-seattle-cost-1d40b2a02b9d).
+A demo of this web application hosted on Heroku is available [here](https://flask-plotly-accommodation.herokuapp.com/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
